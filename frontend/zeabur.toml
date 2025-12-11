@@ -1,0 +1,7 @@
+[service]
+name = "crypto-weappp"
+
+[[services]]
+name = "frontend"
+dir = "frontend"
+type = "nextjs"
